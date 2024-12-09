@@ -376,7 +376,7 @@
   }  
 
   .art {
-    grid-template-columns: repeat(auto-fit, minmax(315px, 1fr));
+    grid-template-columns: repeat(3,1fr);
   }
 
   .art_card {
@@ -389,7 +389,7 @@
 
   .art-changes {
     grid-template-columns: repeat(auto-fit, minmax(315px, 1fr));
-    grid-template-rows: repeat(2, min-content);
+    grid-template-rows: repeat(2, auto);
   }
 
   .art-changes .art_title {
