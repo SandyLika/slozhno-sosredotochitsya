@@ -5,18 +5,16 @@
   --title-color:#DB00FF;
   --title-color-shadow:var(--accent-color);
   --text-color: #F1B2CE;
+  --botton-color: var(--accent-color);
   --background-color: #000028;
   --decor-text-color:var(--background-color);
   --card-title-color:var(--accent-color);
   --font-family: 'IBM Plex mono', monospace;
+  --visibility: visible;
   --bold-font-weight: 700;
   --normal-font-weight: 400;
   --font-size: 18px;
   --larde-font-size:116px;
   --line-height: 23.4px;
   --title-line-height:95.7px;
-
-  
-
-
 }
