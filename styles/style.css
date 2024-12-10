@@ -401,7 +401,7 @@
     width: 33%;
   }
 
-  .art-changes .art_card{
+  .art-changes .art_card {
     grid-template-columns: repeat(auto-fit, minmax(315px, 1fr));
     grid-template-rows: min-content;
     grid-column: span 1;
