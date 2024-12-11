@@ -27,8 +27,4 @@
     --botton-color: var(--text-color);
     --visibility: hidden;
     }
-
-    .header_decoration {
-      visibility: hidden;
-    }
 }
